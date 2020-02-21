@@ -16,7 +16,6 @@ The Keras functional API is used to create multitask classification model, each 
 
 
 ISSUES: 
-
-Need to make better user interface, current implementation is optimized for personal use/testing/debugging (e.g. filepath is hardcoded)
 having trouble accounting for the duration the note, necessary for good full length tabs 
 specific voicings, i.e. right chord but wrong shape. not a huge deal but might be nice
+ current implementation is optimized for personal use/testing/debugging (e.g. filepath is hardcoded)
